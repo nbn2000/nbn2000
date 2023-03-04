@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nodirbek</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nbn2000&label=Profile%20views&color=0e75b6&style=flat" alt="nbn2000" /> </p>
-
 - 🔭 I’m currently working on **Ecommerce website**
 
 - 🌱 I’m currently learning **React, React-Redux**
 
-- 💬 Ask me about **React,html, css, bootstrap, jQuery, Sass**
+- 💬 Ask me about **React, Html, Css, Bootstrap, jQuery, Sass**
 
 - 📫 How to reach me **makhmudov4744@list.ru**
 
@@ -24,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nbn2000&show_icons=true&locale=en" alt="nbn2000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nbn2000&" alt="nbn2000" /></p>
-
