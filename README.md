@@ -3,8 +3,6 @@
 <p align="center">As a self-taught programmer with 8 months of experience, my goal is to continue learning and growing my skills while working part-time and pursuing free educational opportunities. Through my self-study, I've come to realize that practice is the key to success in programming. While I currently have limited project experience, I'm actively working on expanding my portfolio and creating more projects to further enhance my abilities.</p>
 <hr>
 
-- 🔭 I’m currently working on **Ecommerce website**
-
 - 🌱 I’m currently learning **React, React-Redux**
 
 - 💬 Ask me about **React, Html, Css, Bootstrap, jQuery, Sass**
