@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, React-Redux**
 
-- 💬 Ask me about **React, Html, Css, Bootstrap, jQuery, Sass**
+- 💬 Ask me about **React, Html, Css, Bootstrap, jQuery, Sass, Tailwind, MaterialUI, NextJs, Styled-Components, Emotion-Styled, Express, MongoDB, MySQL, Vite, Redux, Redux-toolkit, RTQ-query**
 
 - 📫 How to reach me **makhmudov4744@list.ru**
 
