@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nodirbek-makhmudov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nodirbek-makhmudov/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16272194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16272194" height="30" width="40" /></a>
 <a href="https://nodibek-makhmudov.hashnode.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://nodibek-makhmudov.hashnode.dev/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/nbn2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nbn2000" height="30" width="40" /></a>
+<a href="https://leetcode.com/nbn2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nbn2000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
